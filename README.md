@@ -4,4 +4,4 @@ This project is intended for students wishing to do robotics projects using Polo
 
 This project was written by Alexander Kirillov for use at [SigmaCamp](http://sigmacamp.org). You can see some photos and videos from students using a previous version of this project at [sigmacamp.org/2015/semilabs/robotics](http://sigmacamp.org/2015/semilabs/robotics)
 
-Full documentation for this project can be found in [docs/zumobot2016.pdf] file. 
+Full documentation for this project can be found in [docs/zumobot2016.pdf](./docs/zumobot2016.pdf) file. 
